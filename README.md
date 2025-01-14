@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/oneyottabyte">
+  <a href="https://github.com/dorianjunior">
     <img src="https://readme-typing-svg.herokuapp.com/?&color=%D6F7F1FF&lines=Olá,+Devs!+👋;Eu+sou+o+Dorian+...;&center=true&size=30">
   </a>
 </h1>
@@ -20,15 +20,15 @@
 <br>
 
 <div>
-  <a href="https://github.com/oneyottabyte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneyottabyte&layout=compact&langs_count=7&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oneyottabyte&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/dorianjunior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorianjunior&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dorianjunior&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div> 
 
 ### Contatos:
 
 <div>
-  <a href="https://www.instagram.com/oneyottabyte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/dorian__junior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dorianc.vieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dorian-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
