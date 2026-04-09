@@ -1,8 +1,12 @@
 <h1 align="center">
   <a href="https://github.com/dorianjunior">
-    <img src="https://readme-typing-svg.herokuapp.com/?&color=%D6F7F1FF&lines=Olá,+Devs!+👋;Eu+sou+o+Dorian+Junior;Desenvolvedor+Full+Stack;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?&color=%D6F7F1FF&lines=Olá,+Devs!+👋;&center=true&size=30">
   </a>
 </h1>
+
+<h2 align="center">
+  Eu sou o Dorian Junior. Sou Desenvolvedor Full Stack.
+</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dorianjunior&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
