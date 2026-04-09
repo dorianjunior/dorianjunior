@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center">
-  `NAME: Dorian Junior`
+  <code>NAME: Dorian Junior</code>
 </h2>
 
 <p align="center">
