@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center">
-  Eu sou o Dorian Junior. Sou Desenvolvedor Full Stack.
+  `NAME: Dorian Junior`
 </h2>
 
 <p align="center">
